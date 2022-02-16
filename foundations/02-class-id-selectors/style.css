@@ -1,0 +1,18 @@
+.oddElements {
+    background-color: #ffc0cb;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.biggerFont {
+    font-size: 24px;
+}
+#secondElement {
+    color: rgb(0, 0, 255);
+    font-size: 36px;
+}
+
+#fourthElement {
+    background-color: hsl(120, 73%, 75%);
+    font-size: 24px;
+    font-weight: 700;
+}
